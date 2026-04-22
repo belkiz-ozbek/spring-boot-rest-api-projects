@@ -1,2 +1,5 @@
-package com.example.springcoredemo;public interface Coach {
+package com.example.springcoredemo;
+
+public interface Coach {
+    public String getDailyWorkout();
 }
